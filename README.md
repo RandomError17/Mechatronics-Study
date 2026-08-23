@@ -1,5 +1,5 @@
 # Mechatronics-Study ~ 500 hours
-The goal of this study is to gain more experience as a high school junior in the field of mechatronics engineering
+The goal of this study is to gain more experience in the field of of mechatronics engineering as a high school junior
 
 # Current Experience - August 2026
 - Mathematics: Precalculus. AP Calculus AB running in parallel this year
