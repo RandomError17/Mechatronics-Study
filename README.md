@@ -5,7 +5,7 @@ The goal of this study is to gain more experience as a high school junior in the
 - Mathematics: Precalculus. AP Calculus AB running in parallel this year
 - Programming: Mastery in Java (AP CSA / Data Structures), NumPy/SciPy/Matplotlib/Pandas Python, Yolov12-Nano
 - Electronics: Basic Arduino and Raspberry Pi
-- CAD & mechanical design: Onshape
+- CAD & mechanical design: Onshape, Fusion360
 
 # Experience Gain Goal - June 2027
 - Mathematics: Linear algebra, differential equations, Laplace transforms, eigenvalues, Jacobians & linearization, probability & covariance, numerical integration.
