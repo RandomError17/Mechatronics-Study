@@ -3,7 +3,7 @@ The goal of this study is to gain more experience in the field of of mechatronic
 
 # Current Experience - August 2026
 - Mathematics: Precalculus. AP Calculus AB running in parallel this year
-- Programming: Mastery in Java (AP CSA / Data Structures), NumPy/SciPy/Matplotlib/Pandas Python, Yolov12-Nano
+- Programming: Mastery in Java (AP CSA / Data Structures), NumPy/SciPy/Matplotlib/Pandas Python, Yolov12-Nano, U-Net Architecture
 - Electronics: Basic Arduino and Raspberry Pi
 - CAD & mechanical design: Onshape, Fusion360
 
