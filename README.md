@@ -1,4 +1,4 @@
-# Mechatronics-Study ~ 500 hours
+# Mechatronics-Study
 The goal of this study is to gain more experience in the field of of mechatronics engineering as a high school junior
 
 # Current Experience - August 2026
